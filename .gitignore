@@ -1,0 +1,12 @@
+# Arquivos de ambiente virtual
+.venv/
+
+# Arquivo de variáveis de ambiente
+.env
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Outros arquivos que não quer versionar
+*.log
